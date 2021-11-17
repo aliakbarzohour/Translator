@@ -1,0 +1,4 @@
+~ / librarys
+
+1 - colorama 
+2 - translate
