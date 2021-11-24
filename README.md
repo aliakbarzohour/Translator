@@ -1,4 +1,4 @@
-### Build a translator with Python!
+## Build a translator with Python!
 
 ![translate-text-in-python](https://user-images.githubusercontent.com/71524940/142944474-81174b12-859c-4630-8cab-e4e041021adb.PNG)
 
